@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Tetris",
+        "url": "https://tetris.com/play-tetris"
+    },
+    {
+        "title": "2048",
+        "url": "https://play2048.co/"
+    },
+    {
+        "title": "Snake",
+        "url": "https://playsnake.org/"
+    },
+    {
+        "title": "Flappy Bird",
+        "url": "https://flappybird.io/"
+    }
+]
